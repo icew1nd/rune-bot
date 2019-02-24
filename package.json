@@ -1,0 +1,11 @@
+{
+  "name": "rune-bot",
+  "version": "1.0.0",
+  "description": "A small rune reminder bot",
+  "main": "bot.js",
+  "author": "Thomas Kjær-Rasmussen",
+  "dependencies": {
+    "@types/node": "^11.9.5",
+    "discord.io": "github:Woor/discord.io#gateway_v6"
+  }
+}
