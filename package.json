@@ -4,6 +4,9 @@
   "description": "A small rune reminder bot",
   "main": "bot.js",
   "author": "Thomas Kjær-Rasmussen",
+  "scripts": {
+    "start": "node ./dist/bot.js"
+  },
   "dependencies": {
     "@types/node": "^11.9.5",
     "discord.io": "github:Woor/discord.io#gateway_v6"
